@@ -19,7 +19,6 @@ Python/
   per capita.ipynb                  |
 
 
-  ARIMA.ipynb                       |
   LSTM.ipynb                        | 
   clustering.ipynb                  | 
   correlation_visualization.ipynb   |   Working with cleaned data
