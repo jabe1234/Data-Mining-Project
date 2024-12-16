@@ -3,7 +3,7 @@
 ```
 Group Members:
 
-  Avery Lawson
+  Avery Lawson 
   Jay Bentley
   Michael Thomas
   Nick O'Connor
